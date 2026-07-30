@@ -1,0 +1,6 @@
+# Compiled Java classes
+*.class
+
+# Python scripts
+organize.py
+organize_java.py
