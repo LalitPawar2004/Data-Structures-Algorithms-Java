@@ -10,7 +10,7 @@ A beginner-friendly collection of Java programs covering core concepts in arrays
 ├── basics/          # Fundamental Java programs and logic building
 ├── functions/       # Programs using methods/functions
 ├── patterns/        # Pattern printing exercises
-├── two_D_array/     # 2D array input and display programs
+├── two_D_array/     # 2D array programs such as input, transpose, spiral, row/column sums, and max element
 ├── organise.py      # Utility script for organizing Java files
 └── README.md        # Project overview
 ```
