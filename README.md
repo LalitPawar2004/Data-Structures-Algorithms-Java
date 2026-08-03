@@ -51,6 +51,11 @@ A beginner-friendly collection of Java programs covering core concepts in arrays
 │   ├── ExtractUsernameFromEmail.java
 │   ├── ReplaceEWithI.java
 │   └── ReverseString.java
+├── recursion/       # Recursive examples for factorial, Fibonacci, counting, and summation
+│   ├── CalcFact.java
+│   ├── PrintFibbo.java
+│   ├── PrintNumber.java
+│   └── SumOfNumber.java
 ├── two_D_array/     # 2D array programs such as input, transpose, spiral, row/column sums, and max element
 │   ├── MaxElement.java
 │   ├── SpiralMatrix.java
