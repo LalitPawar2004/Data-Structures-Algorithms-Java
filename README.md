@@ -7,10 +7,57 @@ A beginner-friendly collection of Java programs covering core concepts in arrays
 ```text
 .
 ├── arrays/          # Array-based programs
+│   ├── ArrayAverage.java
+│   ├── ArrayCount.java
+│   ├── ArrayName.java
+│   ├── ArrayReverse.java
+│   ├── ArraySearch.java
+│   ├── ArraySum.java
+│   ├── CheckSortedArray.java
+│   └── MinMaxArray.java
 ├── basics/          # Fundamental Java programs and logic building
+│   ├── Calculator.java
+│   ├── CircleArea.java
+│   ├── CompareNumbers.java
+│   ├── Counter.java
+│   ├── DoWhileExample.java
+│   ├── EvenNumbersTillN.java
+│   ├── Fibonacci.java
+│   ├── Hello.java
+│   ├── MonthNamePrinter.java
+│   ├── MultiplicationTable.java
+│   ├── PowerCalculation.java
+│   ├── PrimeOrNot.java
+│   ├── StudentMarksMenu.java
+│   ├── SumOfOddNumbers.java
+│   └── VotingEligibility.java
 ├── functions/       # Programs using methods/functions
+│   ├── AverageUsingFunction.java
+│   ├── EvenUsingFunction.java
+│   ├── PrimeUsingFunction.java
+│   └── TableUsingFunction.java
 ├── patterns/        # Pattern printing exercises
+│   ├── HalfPyramid.java
+│   ├── HollowButterfly.java
+│   ├── HollowRhombus.java
+│   ├── InvertedPyramid.java
+│   ├── NumberPyramid.java
+│   ├── PalindromicNumberPyramid.java
+│   └── SolidRhombus.java
+├── Strings/         # String manipulation and text-processing programs
+│   ├── CheckPalindrome.java
+│   ├── CountVowels.java
+│   ├── CumulativeStringLength.java
+│   ├── ExtractUsernameFromEmail.java
+│   ├── ReplaceEWithI.java
+│   └── ReverseString.java
 ├── two_D_array/     # 2D array programs such as input, transpose, spiral, row/column sums, and max element
+│   ├── MaxElement.java
+│   ├── SpiralMatrix.java
+│   ├── SumOfColumn.java
+│   ├── SumOfRow.java
+│   ├── Transpose.java
+│   └── TwoDArray.java
 ├── organise.py      # Utility script for organizing Java files
 └── README.md        # Project overview
 ```
