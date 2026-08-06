@@ -1,6 +1,6 @@
 # Data Structures and Algorithms in Java ☕
 
-A beginner-friendly collection of Java programs covering core concepts in arrays, basics, functions, and pattern printing. This repository is designed to help learners practice problem-solving and strengthen their Java fundamentals.
+A beginner-friendly collection of Java programs covering core concepts in arrays, basics, functions, patterns, strings, recursion, sorting, and 2D arrays. This repository is designed to help learners practice problem-solving and strengthen their Java fundamentals.
 
 ## 📁 Project Structure
 
@@ -12,6 +12,7 @@ A beginner-friendly collection of Java programs covering core concepts in arrays
 ├── patterns/        # Pattern printing exercises
 ├── Strings/         # String manipulation and text-processing programs
 ├── recursion/       # Recursive examples for factorial, Fibonacci, counting, and summation
+├── sorting/         # Sorting programs such as bubble, insertion, and selection sort
 ├── two_D_array/     # 2D array programs such as input, transpose, spiral, row/column sums, and max element
 ├── organise.py      # Utility script for organizing Java files
 └── README.md        # Project overview
